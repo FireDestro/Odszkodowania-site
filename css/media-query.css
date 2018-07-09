@@ -1,0 +1,1266 @@
+@media only screen and (min-width: 320px) and (max-width: 1024px) {
+  /*main section query*/
+  .nav-container {
+    display: none;
+  }
+  .fbandagent-container {
+    display: none;
+  }
+  .nav-ul {
+    display: none;
+  }
+  .logo-nav img {
+    width: 100%;
+  }
+  .logo-nav {
+    margin-top: 30px;
+    width: 100%;
+  }
+  .inner-container {
+    width: 90%;
+  }
+  .accident-main-container {
+    flex-wrap: wrap;
+  }
+  #Main {
+    height: 795px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 20%;
+  }
+  .mobile-main {
+    z-index: 1;
+  }
+  .mobile-nav {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 30px;
+    width: 30%;
+    height: auto;
+  }
+  .nav-ul {
+    display: none;
+  }
+  .accident-main {
+    width: 100%;
+  }
+  .h-accident-main h2 {
+    font-family: "Roboto Slab";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1;
+  }
+  .h-accident-main h3 {
+    font-family: "Arial";
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+  }
+  .logo-accident-main {
+    padding-top: 0px;
+  }
+  .report-acc {
+    font-size: 26px;
+    font-weight: bold;
+  }
+  .accident-text-style {
+    font-size: 16px;
+  }
+  .numer-info {
+    font-size: 24px;
+  }
+  .form-all {
+    width: 100%;
+    justify-content: center;
+    padding-top: 60px
+  }
+  /* form modify */
+  .container-IDcase {
+    margin-bottom: 31px;
+  }
+  .container-space-betweenform {
+    display: none !important;
+  }
+  #container-main-form {
+    width: 90%;
+  }
+  .container-IDcase {
+    width: 100%;
+    justify-content: space-between;
+    padding: 2.5% 5% 5% 5%;
+  }
+  .case-progress {
+    background-color: #262A3D;
+    height: 100%;
+    margin-bottom: 5%;
+  }
+  .bold-p1 {
+    font-size: 48px;
+    width: 75%;
+    padding-left: 5%;
+    padding-top: 8%;
+  }
+  .inner-IDcontainer {
+    width: 55%;
+  }
+  .ID-case-txt {
+    font-size: 24px;
+    justify-content: flex-start;
+    display: flex;
+    padding-left: 30px;
+    padding-top: 30px;
+    width: 100%;
+  }
+  .id-line {
+    display: block;
+    width: 100%;
+    opacity: 0.251;
+    margin-top: 10px;
+  }
+  .id-line hr {
+    border: 0.5px solid;
+  }
+  .container-btn-check {
+    width: 40%;
+  }
+  .btn-check {
+    height: 80px;
+    font-size: 24px;
+  }
+  .btn-check-inner {
+    background: url('../img/btn-form-arrow-query.png') no-repeat;
+    background-position: 90% 60%;
+  }
+  .form1 {
+    width: 100%;
+    margin-top: 0px;
+  }
+  .container-send_form {
+    width: 100%;
+    height: 100%;
+  }
+  .send-form {
+    margin-top: 8%;
+    margin-left: 5%;
+  }
+  .bold-p2 {
+    font-size: 44px;
+  }
+  .hr-line-color {
+    margin-left: 0px;
+    margin-bottom: 20px;
+  }
+  .ID-case-txt-1 {
+    font-size: 24px;
+    width: 100%;
+  }
+  .logo-form {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    height: 200px;
+    margin-right: 5%;
+    margin-top: 5%;
+  }
+  .logo-form img {
+    height: 112px;
+    width: 112px;
+  }
+  .form-group1 {
+    width: 90%;
+  }
+  .form-group1-select {
+    background: url("../img/select-btn-query.png") no-repeat;
+    width: 90%;
+    background-position: 90% 60%;
+  }
+  .style-select-input1 {
+    width: 100%;
+    height: 80px;
+    margin-top: 2.5%;
+    margin-left: 0px;
+    font-size: 24px;
+  }
+  .form-control1 {
+    width: 100%;
+    height: 80px;
+    margin-top: 2.5%;
+    font-size: 24px;
+  }
+  .container-btn-send {
+    padding-bottom: 4vw;
+  }
+  .btn-form-send {
+    width: 90%;
+    height: 80px;
+    font-size: 24px;
+  }
+  .send-button-text {
+    padding-left: 0%;
+    width: 90%;
+  }
+  .i-check {
+    border-width: 0 5px 5px 0;
+    padding: 6px;
+  }
+  /* section about form query */
+  .container-btn-send-query {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .container-subsite_form {
+    display: none;
+  }
+  /*end of main-section query*/
+  /* Start pomoc section */
+  /* zmienione pomoc!! */
+  #pomoc {
+    padding: 1100px 0px 120px 0px;
+  }
+  .sec-row {
+    margin-top: 0px;
+  }
+  .container-pomoc2 {
+    width: 90%;
+  }
+  .button-pomoc-head {
+    display: none;
+  }
+  .first-row, .sec-row {
+    flex-direction: column;
+  }
+  .logo-position img {
+    width: 150px;
+    height: 150px;
+  }
+  .more-button {
+    width: 195px;
+    height: 80px;
+  }
+  .plus {
+    font-size: 46px;
+    font-weight: bold;
+  }
+  .button-more-text {
+    font-size: 28px;
+    padding-left: 12px;
+    font-weight: bold;
+    padding-left: 19px;
+  }
+  .pomoc-button {
+    display: none;
+  }
+  .header2-2sec {
+    font-size: 34px;
+  }
+  .info-position p {
+    font-size: 20px;
+    font-family: "Myriad Pro";
+    padding-top: 5px;
+  }
+  #pomoc h1 {
+    font-size: 19px;
+  }
+  .btn-more-position {
+    margin: 30px 30px;
+  }
+  /* End of pomoc section */
+  /* o firmie query start */
+  #zycie {
+    width: 100%;
+    background-image: url("../img/ofirmie-mobile.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 960px;
+  }
+  .zycie-container {
+    height: 960px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding-right: 0px;
+  }
+  .part-zycie {
+    width: 82%;
+  }
+  .part-zycie h1 {
+    font-size: 48px;
+    width: 100%;
+  }
+  .part-zycie p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: left;
+    font-size: 24px;
+    line-height: 1.2;
+  }
+  .btn-zycie-inner span {
+    width: 80%;
+  }
+  .zycie-button {
+    width: 100%;
+    margin-top: 40px;
+  }
+  /* o firmie query END */
+  /* Start aktualnosci */
+  #aktualnosci {
+    width: 90%;
+  }
+  #aktualnosci h1 {
+    font-size: 46px;
+    width: 100%;
+    padding-bottom: 23px;
+  }
+  .part1-aktu, .part2-aktu, .part3-aktu {
+    width: 100%;
+    margin-bottom: 60px;
+  }
+  .img1-aktu, .img2-aktu, .img3-aktu {
+    height: 360px;
+  }
+  .header-aktu {
+    flex-direction: column;
+  }
+  .header-aktu h1 {
+    font-size: 48px;
+    font-family: "Roboto Slab";
+    color: rgb(13, 34, 75);
+    font-weight: bold;
+  }
+  .aktu-btn-news-img {
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .news-img1 {
+    width: 90%;
+  }
+  .news-img1-ok {
+    width: 15%;
+  }
+  .aktu-button-news {
+    height: 70%;
+  }
+  .aktu-button {
+    height: 79px;
+    width: 100%;
+  }
+  .aktu-button1 {
+    display: none;
+  }
+  .aktu-button2 {
+    display: flex;
+    height: 79px;
+    width: 100%;
+  }
+  .aktu-button-news span {
+    font-size: 24px;
+    text-align: left;
+    margin-left: 23px;
+  }
+  .aktu-text p {
+    opacity: 0.8;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  .hr-aktu {
+    width: 8%
+  }
+  .subsite-news {
+    padding-top: 60%;
+  }
+  /* Koniec Aktualnosci */
+  /*klient o nas query*/
+  #klient-o-nas {
+    height: 100%;
+    background-image: url("../img/klient-query.jpg");
+  }
+  .container-klient {
+    width: 90%;
+    padding-top: 50px;
+  }
+  .header-klient {
+    padding-bottom: 240px;
+    width: 90%;
+  }
+  .header-klient h1 {
+    font-family: 'Roboto Slab';
+    font-size: 42px;
+  }
+  .profil2-klient {
+    display: none;
+  }
+  .profil1-klient {
+    width: 100%;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0 auto;
+    height: 100%;
+    padding-bottom: 50px;
+  }
+  .img-profil1-klient {
+    justify-content: flex-start;
+    margin-left: 30px;
+    margin-top: 23px;
+    width: 50%;
+  }
+  .text-profil1-klient {
+    margin-left: 30px;
+    width: 90%;
+  }
+  .text-profil1-klient p {
+    font-size: 24px;
+    color: #ffffff;
+    line-height: 1.2;
+  }
+  .text-profil1-klient span {
+    margin-top: 23px;
+    margin-bottom: 23px;
+  }
+  .text-profil1-klient h3 {
+    font-size: 21px;
+  }
+  .inner-img-profil {
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 0px;
+  }
+  .img-circle {
+    height: 115px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 0px;
+  }
+  .img-circle img {
+    width: 115px;
+    height: 115px;
+  }
+  .ok-klient {
+    margin-top: 59px;
+    padding-right: 65px;
+  }
+  .carousel-control-next, .carousel-control-prev {
+    width: 4%;
+  }
+  .slider {
+    height: 125px;
+  }
+  /*koniec klient o nas*/
+  /* Start mapa  */
+  .container-map {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  #map {
+    width: 100%;
+    height: 984px;
+  }
+  .map-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 465px;
+    margin-left: 0px;
+  }
+  .btn-map-info {
+    height: 80px;
+    font-size: 22px;
+  }
+  .info-items-position {
+    width: 90%;
+  }
+  .info-items-position h4 {
+    font-size: 23px;
+  }
+  .p-mapinfo {
+    font-size: 20px;
+    line-height: 1.4;
+  }
+  .container-btn-map-info {
+    margin-top: 50px;
+  }
+  .i-map {
+    border-width: 0 5px 5px 0;
+    padding: 6px;
+  }
+  #google-map {
+    justify-content: center;
+    align-items: flex-end;
+  }
+  /* koniec mapa */
+  /*footer query*/
+  .container-footer {
+    height: 100%;
+  }
+  .main-footer-1 {
+    padding: 0;
+  }
+  .footer-one {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 23px;
+    font-size: 24px;
+    height: 350px;
+  }
+  .footer-one ul {
+    text-align: center;
+  }
+  .fb-logo {
+    /* background: none; */
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+  }
+  .fb-info {
+    padding-left: 0px;
+  }
+  .fb-logo p {
+    font-size: 22px;
+    width: 100%;
+  }
+  .logo-rzetelna {
+    display: none;
+  }
+  .footer-kontakt {
+    margin: 0 auto;
+    font-size: 20px;
+    margin-bottom: 60px;
+  }
+  .footer-kontakt h4 {
+    font-size: 20px;
+    text-align: center;
+  }
+  .footer-kontakt p {
+    text-align: center;
+    font-size: 20px;
+    padding-top: 23px;
+  }
+  .main-footer-2 {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    width: 90%;
+  }
+  .copyrights {
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+  }
+  .logo-rzetelna-query {
+    display: block;
+  }
+  .path-to-site {
+    width: 100%;
+    text-align: center;
+    margin-top: 29px;
+    font-size: 19px;
+  }
+  .footer-logo2 {
+    margin-bottom: 20px;
+    display: block;
+  }
+  .footer-fb-logo2 {
+    display: block;
+  }
+  .fb-logo img {
+    width: 6vw;
+  }
+  .hr-footer-line-1 {
+    width: 70px;
+  }
+  /*pomoc section query*/
+  #pomoc h1 {
+    font-size: 48px;
+    font-family: "Roboto Slab";
+    color: rgb(13, 34, 75);
+    font-weight: bold;
+  }
+  .width-container {
+    height: 595px;
+  }
+  .wypadek, .szkody, .smierc, .chodnik, .praca, .innewypadki {
+    margin-bottom: 32px;
+    max-width: 100%;
+  }
+  .inner-wypadek-img {
+    padding-bottom: 55px;
+  }
+  .inner-wypadek-img img {
+    height: 95px;
+  }
+  /* subsite about */
+
+    /* start popup form */
+      .popup-cross {
+      display: flex;
+      justify-content: flex-end;
+      width: 30%;
+      height: 42px;
+      margin-top: 8%;
+      margin-right: 5%;
+    }
+
+      .container-send_formPop {
+      display: none;
+      position: absolute;
+      background-color: #262A3D;
+      height: auto;
+      width: 100%;
+      z-index: 100;
+
+      }
+
+    /* koniec popup form */
+  #About {
+    background-image: url("../img/ofirmie-query.jpg");
+    height: 634px;
+  }
+  #About h1 {
+    width: 100%;
+    font-size: 54px;
+    display: flex;
+    align-items: flex-end;
+    line-height: 1.2;
+  }
+  .header-container-about {
+    height: 450px;
+    justify-content: flex-end;
+  }
+  .subsite-about {
+    flex-direction: column;
+    width: 90%;
+  }
+  .praca-about {
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .width-container-about {
+    width: 100%;
+  }
+  .subsite-about-main-img {
+    width: 100%;
+    justify-content: center;
+    margin-left: 0px;
+    margin-top: 120px;
+  }
+  .praca-about {
+    height: 580px;
+  }
+  .subsite-about-main-text {
+    width: 100%;
+  }
+  .subsite-about-main-text {
+    width: 100%;
+  }
+  .subsite-about-main-text p {
+    font-size: 20px;
+    opacity: 0.7;
+    text-align: justify;
+  }
+  .subsite-about-main-text h2 {
+    font-size: 23px;
+  }
+  .subsite-about-main-text h4 {
+    font-size: 22px;
+    color: #0d224b;
+    padding-top: 23px;
+    font-weight: bold;
+    padding-bottom: 23px;
+  }
+  .query-send {
+    text-align: left;
+    font-size: 26px;
+  }
+  .send-query-i {
+    -webkit-transform: rotate(45deg);
+    border-width: 0 6px 6px 0;
+    padding: 7px;
+  }
+  .footer-about {
+    display: none;
+  }
+  .footer-about h4 {
+    font-size: 48px;
+  }
+  .footer-about-logo {
+    justify-content: flex-start;
+  }
+  /* subsite offer */
+  #Offer {
+    background-image: url("../img/ofirmie-query.jpg");
+    height: 634px;
+  }
+  #Offer h1 {
+    font-size: 54px;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    line-height: 1.2;
+  }
+  .header-container-offer {
+    height: 450px;
+    justify-content: flex-end;
+  }
+  .subsite-offer {
+    flex-direction: column;
+    width: 90%;
+  }
+  .header-container-aktua {
+    padding-top: 268px;
+  }
+  .width-container-offer {
+    width: 100%;
+    height: 585px;
+    margin-top: 65px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 100%;
+  }
+  .subsite-offer-main-img {
+    width: 100%;
+    margin-left: 0px;
+    padding-top: 0%;
+  }
+  .subsite-offer-main-text {
+    width: 100%;
+  }
+  .subsite-offer-main-text p {
+    font-size: 20px;
+    font-weight: normal;
+    opacity: 0.8;
+  }
+  .subsite-offer-main-text h2 {
+    font-size: 23px;
+  }
+  .subsite-offer-main-text h4 {
+    font-size: 22px;
+    color: #0d224b;
+    padding-top: 23px;
+    font-weight: bold;
+    padding-bottom: 23px;
+  }
+  .container-btn-send-query-offer {
+    display: flex;
+    margin-top: 20px;
+  }
+  .footer-offer {
+    flex-direction: column;
+  }
+  .footer-offer-text p {
+    opacity: 1;
+    font-size: 22px;
+    font-weight: bold;
+  }
+  .footer-offer h4 {
+    font-size: 48px;
+    line-height: 1.2;
+  }
+  .footer-offer-logo {
+    margin-top: 30px;
+    justify-content: flex-start;
+  }
+  .footer-offer-number {
+    font-size: 32px;
+  }
+  .subsite-offer-logo {
+    padding-bottom: 44px;
+  }
+  .subsite-offer-logo img {
+    width: 100px;
+    height: 100px;
+  }
+  /* koniec offfer */
+  /* news */
+  #News {
+    background-image: url("../img/fundacja-query.jpg");
+    height: 634px;
+  }
+  .subsite-news {
+    width: 90%;
+    flex-direction: column;
+  }
+  .img-news-header {
+    padding-top: 14px;
+  }
+  .part2-news {
+    width: 100%;
+  }
+  .header-news {
+    width: 100%;
+  }
+  .subsite-news-main-text {
+    width: 100%;
+    padding-top: 58px;
+  }
+  .hr-news {
+    width: 20%;
+    margin: 30px 0;
+  }
+  .subsite-news-main-text p {
+    font-size: 20px;
+    line-height: 1.4;
+  }
+  .subsite-news-main-text h2 {
+    font-size: 24px;
+    line-height: 1.35;
+  }
+  .subsite-news-main-img {
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 65px;
+  }
+  .footer-news {
+    padding-top: 50px;
+  }
+  .footer-news-text {
+    width: 100%;
+  }
+  .footer-news-text p {
+    font-size: 22px;
+  }
+  .footer-news-number {
+    font-size: 32px;
+  }
+  .footer-news {
+    flex-direction: column;
+  }
+  .footer-news h4 {
+    font-size: 48px;
+    line-height: 1.2;
+  }
+  .news-button {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 1025px) {
+  .mobile-main {
+    display: none !important;
+  }
+
+  .container-send_formPop {
+    display: none !important;
+  }
+  .inner-container {
+    display: flex !important;
+  }
+  #pomoc {
+    padding: 90px 0 !important;
+  }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 640px) {
+  /* main */
+  #Main {
+    background-position: 30%;
+  }
+  .logo-accident-main img {
+    width: 24vw;
+  }
+  .h-accident-main h2 {
+    font-size: 16vw;
+  }
+  .h-accident-main h3 {
+    font-size: 5vw;
+  }
+  .report-acc {
+    font-size: 3.75vw;
+  }
+  .accident-text-style {
+    font-size: 2.75vw;
+  }
+  .numer-info {
+    font-size: 3.75vw;
+  }
+  .bold-p1 {
+    font-size: 7.5vw;
+  }
+  .btn-check {
+    height: 13vw;
+  }
+  /* Menu */
+  .mobile-main {
+    height: auto;
+  }
+  .menu-mobile-item {
+    height: 15.75vw;
+  }
+  .mobile-header {
+    height: 27vw;
+  }
+  .firm-inner {
+    font-size: 5vw;
+  }
+  .firm-inner-width1 span:first-child {
+    font-size: 5vw;
+  }
+  .dropdown-mobile-efpp {
+    height: 77.5vw;
+  }
+  .dropdown-mobile-ofi {
+    height: 77.5vw;
+  }
+  .dropdown-mobile-efpp-item {
+    font-size: 3.75vw;
+    height: 15.5vw;
+  }
+  .fb-mobile-inner-width1 img {
+    height: 7.5vw;
+    width: 7.5vw;
+  }
+  .agent-mobile-inner-width1 img {
+    height: 7.25vw;
+    width: 7vw;
+  }
+  /* strefa agenta */
+  .mobile-logowanie {
+    height: 123vw;
+  }
+  .logowanie-strefa-container h2 {
+    font-size: 5vw;
+  }
+  .strefa-form input {
+    height: 15.75vw;
+  }
+  .strefa-button {
+    height: 15.75vw;
+  }
+  .strefa-form input {
+    font-size: 3.75vw;
+  }
+  .strefa-button-text {
+    font-size: 3.75vw;
+  }
+  .mobile-header-logowanie {
+    height: 27vw;
+  }
+  /* formcase */
+  .ID-case-txt {
+    font-size: 3.75vw;
+  }
+  .btn-check {
+    font-size: 3.75vw;
+    /* height: 100%; */
+  }
+  .bold-p2 {
+    font-size: 6.9vw;
+  }
+  .ID-case-txt-1 {
+    font-size: 3.75vw;
+  }
+  .form-control1 {
+    font-size: 3.75vw;
+    height: 13vw;
+  }
+  .style-select-input1 {
+    font-size: 3.75vw;
+    height: 13vw;
+  }
+  .btn-form-send {
+    font-size: 3.75vw;
+    height: 13vw;
+  }
+  .logo-form {
+    margin-top: 25%;
+    height: 100%;
+  }
+  .logo-form img {
+    width: 18vw;
+    height: 18vw;
+  }
+  /* footer */
+  .copyrights {
+    font-size: 3vw;
+  }
+  .path-to-site {
+    font-size: 3vw;
+  }
+  /* pomoc */
+  #pomoc {
+    padding: 170vw 0 20vw 0;
+  }
+  .width-container {
+    height: auto;
+  }
+  .logo-position {
+    padding-top: 5%;
+    padding-left: 5%;
+  }
+  .logo-position img {
+    width: 24vw;
+    height: 24vw;
+  }
+  .btn-more-position {
+    margin: 2.5%;
+  }
+  .more-button {
+    height: 13vw;
+    width: 30.5vw;
+  }
+  .button-more-text {
+    font-size: 4.25vw;
+    padding-left: 10%;
+  }
+  .plus {
+    font-size: 7.5vw;
+  }
+  .header2-2sec {
+    font-size: 5.25vw;
+  }
+  .info-position {
+    margin: 5%;
+  }
+  .info-position p {
+    font-size: 15px;
+  }
+  /* zycie */
+  #zycie {
+    background-position: 30%;
+    height: 150vw;
+  }
+  .zycie-container {
+    height: 100%;
+  }
+  .life-text h1 {
+    font-size: 7.5vw;
+  }
+  .life-text p {
+    font-size: 3.75vw;
+  }
+  .btn-zycie-inner span {
+    font-size: 3vw;
+  }
+  .zycie-btn-text {
+    width: 90%;
+    font-size: 4vw;
+  }
+  .arrow-cont {
+    font-size: 4vw;
+  }
+  /* Aktualności start */
+  .img1-aktu, .img2-aktu, .img3-aktu {
+    height: 56vw;
+  }
+  .aktu-text p {
+    font-size: 13px;
+  }
+  /* Aktualności koniec */
+  /* klient o nas mini query */
+  .header-klient {
+    padding-bottom: 37.5vw;
+  }
+
+	.header-klient h1 {
+		font-size: 6.5vw;
+	}
+  .text-profil1-klient p {
+    font-size: 3.75vw;
+		padding-top: 7.5vw;
+  }
+	.container-klient {
+		padding-top: 7.5vw;
+	}
+	.text-profil1-klient h3 {
+		font-size: 3.5vw;
+	}
+  .img-circle {
+    height: 100%;
+  }
+  .img-circle img {
+    width: 18vw;
+    height: 18vw;
+  }
+  .inner-img-profil {
+    align-items: normal;
+  }
+	.indicators-container {
+		height: 15vw;
+	}
+	.carousel-indicators li {
+		width: 13vw;
+	}
+	.profil1-klient {
+		padding-bottom: 7.5vw;
+	}
+  .ok-klient {
+    margin-top: 14%;
+    height: 8vw;
+  }
+  .slider-buttons {
+    bottom: -4%;
+  }
+  /* koniec klient o nas mini query */
+  /* mapa google  */
+  .info-items-position h4 {
+    font-size: 3.5vw;
+  }
+  .p-mapinfo {
+    font-size: 3.15vw;
+  }
+  .btn-map-info {
+    font-size: 3.5vw;
+    height: 13vw;
+  }
+  .map-info {
+    height: 80vw;
+  }
+  .i-map {
+    padding: 1.24%;
+  }
+  #map {
+    height: 165vw;
+  }
+  /* koniec mapy */
+  /* footer mini query start */
+  .footer-one {
+    height: 54vw;
+    font-size: 3.75vw;
+  }
+  .footer-kontakt {
+    margin-bottom: 10vw;
+    font-size: 3.75vw;
+  }
+  .footer-kontakt h4 {
+    font-size: 3.75vw;
+  }
+  .footer-kontakt p {
+    font-size: 3.75vw;
+  }
+  .main-footer-2 {
+    height: 60vw;
+  }
+  .hr-footer-line-1 {
+    margin-top: 10px;
+    width: 11vw;
+  }
+  .fb-logo {
+    margin-top: 7vw;
+  }
+  .logo-rzetelna-query img {
+    width: 23vw;
+  }
+  /* footer mini query koniec */
+  /* subsite about min-query  */
+  /* .header-container-aktua {
+		    padding-top: 300px
+	} */
+  #About {
+    height: 100vw;
+  }
+  .header-container-about {
+    height: 70.5vw;
+  }
+  .container-btn-send-query {
+    margin-top: 3vw;
+  }
+  .subsite-about {
+    padding-top: 13.5vw;
+  }
+  #About h1 {
+    width: 100%;
+    font-size: 9vw;
+  }
+  .subsite-about-main-img {
+    margin-top: 0px;
+  }
+  .subsite-about-main-text p {
+    font-size: 3.15vw;
+  }
+  /* subsite offer min-query */
+  #Offer {
+    height: 100vw;
+  }
+  .btn-form-send-query {
+    height: 12.5vw;
+  }
+  .query-send {
+    font-size: 4vw;
+  }
+  .header-container-offer {
+    height: 70.5vw;
+  }
+  .container-btn-send-query-offer {
+    margin-top: 3vw;
+  }
+  .btn-form-send-query {
+    margin-top: 1vw;
+  }
+  .subsite-offer {
+    padding-top: 13.5vw;
+  }
+  #Offer h1 {
+    width: 100%;
+    font-size: 9vw;
+  }
+  .width-container-offer {
+    height: auto;
+  }
+  .subsite-offer-main-text p {
+    font-size: 3.15vw;
+  }
+  .subsite-offer-main-text h4 {
+    font-size: 3.5vw;
+  }
+  .footer-offer-number {
+    font-size: 5vw;
+  }
+  .footer-offer-text h4 {
+    padding-bottom: 0px;
+  }
+  .footer-offer h4 {
+    font-size: 7.5vw;
+  }
+  .ul-offer-text {
+    font-size: 2.5vw;
+  }
+  /* subsite news mini query  */
+  #News {
+    background-position: 100%;
+    height: 100vw;
+    min-height: 385px;
+  }
+  .header-container-aktua {
+    padding-top: 45vw;
+  }
+  #News h1 {
+    font-size: 6vw;
+    margin-top: 14vw;
+  }
+  .subsite-news-main-text h2 {
+    font-size: 3.75vw;
+  }
+  .hr-news {
+    margin: 5% 0;
+  }
+  .subsite-news-main-text p {
+    font-size: 3.15vw;
+  }
+  .subsite-news {
+    padding-top: 75%;
+  }
+  .footer-news {
+    padding-top: 5vw;
+  }
+  .footer-news h4 {
+    font-size: 7.5vw;
+  }
+  .footer-news-text p {
+    font-size: 3.5vw;
+  }
+  .footer-news-number {
+    font-size: 5vw;
+  }
+}
+
+/*koniec media query*/
